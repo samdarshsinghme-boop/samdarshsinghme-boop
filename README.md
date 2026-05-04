@@ -48,7 +48,7 @@
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn: (https://www.linkedin.com/in/samdarsh-singh-59ab93371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: samdarshsingme@gmail.com
+- 📧 Email: samdarshsinghme@gmail.com
 
 ---
 
