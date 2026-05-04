@@ -25,6 +25,7 @@
 ---
 
 ## 📂 Projects
+- 🏥 Healthcare Analytics Dashboard (Python + SQL + Visualization)  
 - 🚆 Railway Management System (Python + SQL)  
 - 📊 Sales Dashboard (Power BI)  
 - 🎓 College Management System (SQL)  
@@ -33,21 +34,21 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=English,Hindi&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: (your link)
-- 📧 Email: yourmail@gmail.com
+- 🔗 LinkedIn: (https://www.linkedin.com/in/samdarsh-singh-59ab93371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: samdarshsinghme@gmail.com
 
 ---
 
