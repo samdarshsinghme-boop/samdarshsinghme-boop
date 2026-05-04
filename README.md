@@ -17,9 +17,26 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi" />
+</p>
+
+---
+
+## 📊 GitHub Stats (FIXED VERSION)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdarshsinghme-boop&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -32,23 +49,9 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdarshsinghme-boop&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
-- 🔗 LinkedIn: (https://www.linkedin.com/in/samdarsh-singh-59ab93371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: samdarshsinghme@gmail.com
+- 🔗 LinkedIn:https://www.linkedin.com/in/samdarsh-singh-59ab93371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: samdarshsinghme@gmail.com  
 
 ---
 
