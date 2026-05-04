@@ -29,16 +29,14 @@
 
 ## 📊 GitHub Stats (FIXED VERSION)
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=radical" />
 </p>
-
 ---
 
 ## 🔥 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdarshsinghme-boop&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samdarshsinghme-boop&layout=compact&theme=radical" />
 </p>
-
 ---
 
 ## 📂 Projects
