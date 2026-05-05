@@ -36,14 +36,21 @@
 
 ---
 
-## 📊 GitHub Activity (SAFE VERSION)
+## 🔥 Languages Used
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdarshsinghme-boop&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Activity 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=samdarshsinghme-boop&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Profile Summary (NO ERROR)
+## 📈 Profile Summary
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdarshsinghme-boop&theme=tokyonight" />
 </p>
