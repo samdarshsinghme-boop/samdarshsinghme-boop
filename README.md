@@ -27,27 +27,6 @@
 
 ---
 
-## 📊 GitHub Profile Stats (STABLE)
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdarshsinghme-boop&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Languages Used
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samdarshsinghme-boop&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Stats (Alternative Safe Version)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Projects
 - 🏥 Healthcare Analytics Dashboard (Python + SQL + Visualization)  
 - 🚆 Railway Management System (Python + SQL)  
@@ -55,7 +34,6 @@
 - 🎓 College Management System (SQL)  
 
 ---
-
 
 ## 📫 Connect With Me
 - 🔗 LinkedIn:https://www.linkedin.com/in/samdarsh-singh-59ab93371?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
