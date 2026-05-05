@@ -23,27 +23,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdarshsinghme-boop&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Backup Stats
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdarshsinghme-boop&theme=tokyonight" />
+<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql" />
 </p>
 
 ---
@@ -53,6 +33,20 @@
 - 🚆 Railway Management System (Python + SQL)  
 - 📊 Sales Dashboard (Power BI)  
 - 🎓 College Management System (SQL)  
+
+---
+
+## 📊 GitHub Activity (SAFE VERSION)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samdarshsinghme-boop&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Profile Summary (NO ERROR)
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdarshsinghme-boop&theme=tokyonight" />
+</p>
 
 ---
 
