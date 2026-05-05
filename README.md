@@ -27,6 +27,27 @@
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samdarshsinghme-boop&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samdarshsinghme-boop&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Backup Stats
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samdarshsinghme-boop&theme=tokyonight" />
+</p>
+
+---
+
 ## 📂 Projects
 - 🏥 Healthcare Analytics Dashboard (Python + SQL + Visualization)  
 - 🚆 Railway Management System (Python + SQL)  
